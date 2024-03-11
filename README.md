@@ -3,10 +3,11 @@ Objective: To empower Vrinda Store with a comprehensive annual sales report for 
 
 Key Steps:
 
-Data Cleaning
-Data Processing
-Data Analysis
-Data Visualization (Dashboard) using Excel
+1.Data Cleaning
+2.Data Processing
+3.Data Analysis
+4.Data Visualization (Dashboard) using Excel
+
 Insights:
 
 Women are the primary buyers.
